@@ -1,0 +1,8 @@
+<Solution>
+  <Project Path="EmployeeManagement.API/EmployeeManagement.API.csproj" />
+  <Project Path="EmployeeManagement.BAL/EmployeeManagement.BAL.csproj" />
+  <Project Path="EmployeeManagement.DAL/EmployeeManagement.DAL.csproj" />
+  <Project Path="EmployeeManagement.Domain/EmployeeManagement.Domain.csproj" />
+  <Project Path="EmployeeManagement.NUnit.Tests/EmployeeManagement.NUnit.Tests.csproj" Id="7c1c0ff3-43a6-41f5-807d-7e8e27064e0a" />
+  <Project Path="EmployeeManagement.xUnit.Tests/EmployeeManagement.xUnit.Tests.csproj" Id="e9c2c57f-e738-4d9a-a5cb-6fa77927950c" />
+</Solution>

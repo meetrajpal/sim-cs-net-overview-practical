@@ -1,0 +1,10 @@
+﻿global using EmployeeManagement.DAL.Data;
+global using EmployeeManagement.DAL.Repositories;
+global using EmployeeManagement.Domain.DTOs;
+global using EmployeeManagement.Domain.Entities;
+global using EmployeeManagement.Domain.Entities.Interfaces;
+global using EmployeeManagement.Domain.Interfaces;
+global using EmployeeManagement.Domain.Interfaces.Repositories;
+global using Microsoft.EntityFrameworkCore;
+global using Microsoft.EntityFrameworkCore.Metadata.Builders;
+global using System.Reflection;

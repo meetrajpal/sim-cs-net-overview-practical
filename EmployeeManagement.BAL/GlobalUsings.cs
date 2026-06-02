@@ -1,0 +1,10 @@
+﻿global using EmployeeManagement.BAL.Mappers.Interfaces;
+global using EmployeeManagement.Domain.DTOs;
+global using EmployeeManagement.Domain.DTOs.Department;
+global using EmployeeManagement.Domain.DTOs.Employee;
+global using EmployeeManagement.Domain.Entities;
+global using EmployeeManagement.Domain.Interfaces;
+global using EmployeeManagement.Domain.Interfaces.Repositories;
+global using EmployeeManagement.Domain.Interfaces.Services;
+global using FluentValidation;
+global using Riok.Mapperly.Abstractions;
